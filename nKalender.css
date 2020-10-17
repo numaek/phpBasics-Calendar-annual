@@ -1,0 +1,141 @@
+
+
+	/* 
+	 * phpBasics
+	 * ---------
+	 * 
+	 * Script:        nKalender
+	 * 
+	 * Version:       1.0
+	 * Release:       01.10.2019
+	 * 
+	 * Author:        numaek   
+	 * Copyright (c): 2004-2019 by www.numaek.de
+	 * 
+	 * Alle Elemente des Kalenders sind hier zur eigenen Gestaltung aufgeführt.
+	 * 
+	 * *************************************************************************************************************************************************************************************************
+	 */
+
+
+	.nKalender_rahmen
+	{
+		border:			0px;
+	}
+
+	.nKalender_tabelle
+	{
+		border:			0px;
+		border-spacing:		20px;
+	}
+
+	.nKalender_monate
+	{
+		border:			1px solid #0000FF;
+		box-shadow:		10px 10px 5px #404040;
+		text-align:		center;
+		vertical-align:		top;
+	}
+
+	.nKalender_kwText
+	{
+		background-color:	#DCDCDC;
+		height:			20px;
+		text-align:		center;
+		font-family:		verdana;
+		font-size:		8pt;
+	}
+
+	.nKalender_kwOff
+	{
+		background-color:	#DCDCDC;
+		color:			#808080;
+		font-family:		verdana;
+		font-size:		8pt;
+	}
+
+	.nKalender_kwOn
+	{
+		background-color:	yellow;
+		color:			#808080;
+		font-family:		verdana;
+		font-size:		8pt;
+	}
+
+	.nKalender_monatOff
+	{
+		background-color:	#DCDCDC;
+		height:			20px;
+		text-align:		left;
+		font-weight:		bold;
+		font-family:		verdana;
+		font-size:		8pt;
+	}
+
+	.nKalender_monatOn
+	{
+		background-color:	#00FF00;
+		height:			20px;
+		text-align:		left;
+		font-weight:		bold;
+		font-family:		verdana;
+		font-size:		8pt;
+	}
+
+	.nKalender_wochentag
+	{
+		background-color:	#808080;
+		color:			floralwhite;
+		height:			20px;
+		text-align:		center;
+		font-weight:		bold;
+		font-family:		verdana;
+		font-size:		8pt;
+	}
+
+	.nKalender_tagZelle
+	{
+		width:			22px;
+		height:			20px;
+		text-align:		center;
+		spacing:		0px;
+		padding:		0px;
+		margin:			0px;
+		border:			0px;
+	}
+
+	.nKalender_tagLeer
+	{
+		background-color:	#AAAAAA;
+		font-family:		verdana;
+		font-size:		8pt;
+	}
+
+	.nKalender_tag
+	{
+		background-color:	floralwhite;
+		font-family:		verdana;
+		font-size:		8pt;
+	}
+
+	.nKalender_samstag
+	{
+		background-color:	lightblue;
+		font-family:		verdana;
+		font-size:		8pt;
+	}
+
+	.nKalender_sonntag
+	{
+		background-color:	#FFD2CF;
+		font-family:		verdana;
+		font-size:		8pt;
+	}
+
+	.nKalender_heute
+	{
+		background-color:	#00FF00;
+		font-family:		verdana;
+		font-size:		8pt;
+	}
+
