@@ -1,8 +1,10 @@
-# phpBasics-Calendar-month
+# phpBasics-Calendar-annual
 
 ```
+An annual calendar to include for your homepage.
 
-An monthly calendar to include for your homepage
+Weekdays, calendar weeks, today's day and month are shown in color.
+The start of the week can be changed to Monday or Saturday.
 
 
 The scripts of the php-Basics series require rudimentary knowledge in dealing with variables and program sequences.
